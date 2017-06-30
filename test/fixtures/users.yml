@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nickname: MyString
+  wechat_id: MyString
+  avatar: MyString
+  gender: 1
+
+two:
+  nickname: MyString
+  wechat_id: MyString
+  avatar: MyString
+  gender: 1
